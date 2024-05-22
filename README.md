@@ -23,10 +23,10 @@ Clone Github Repo : [https://github.com/devrudz/intelivita]
   git clone https://github.com/devrudz/intelivita.git
   cd intelivita
 
-  npm Install
+  npm install
   npm run dev
 
-  composer Install
+  composer install
   php artisan migrate --seed
   php artisan serve
 
