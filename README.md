@@ -73,4 +73,7 @@ Clone Github Repo : https://github.com/devrudz/intelivita.git
   php artisan serve
 
   got to : http://localhost:8000/
+
+
+ After setup, Please replace file changesAuth\AuthenticatesUsers.php with vendor\laravel\ui\auth-backend\AuthenticatesUsers.php.
 ```
